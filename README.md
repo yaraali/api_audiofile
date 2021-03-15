@@ -139,7 +139,7 @@ When the service is running, try this link in your browser/Postman
     127.0.0.1:8008
 ```
 
-You can test the project with pytest by running the command. You can check Github Actions for the status of tests [here](https://github.com/iamr0b0tx/audio_files_api/actions) 
+You can test the project with pytest by running the command. You can check Github Actions for the status of tests
 ```
     pytest
 ```
